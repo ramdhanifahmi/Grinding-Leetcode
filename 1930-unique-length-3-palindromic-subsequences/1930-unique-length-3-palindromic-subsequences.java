@@ -27,7 +27,6 @@ class Solution {
 
             
             ans += between.size();
-            System.out.println("letter: " + letter + ", i: " + i + ", j: " + j + ", between: " + between + ", ans: " + ans);
         }
 
         return ans;
