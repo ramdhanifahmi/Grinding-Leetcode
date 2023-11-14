@@ -1,0 +1,3 @@
+**Set** adalah koleksi yang **tidak mengizinkan duplikat**. Jadi, ketika kita memanggil add(subsequence) pada countedSubsequences, itu akan mengembalikan true jika subsequence belum ada di dalam set (artinya, belum pernah dihitung sebelumnya) dan akan mengembalikan false jika subsequence sudah ada di dalam set (artinya, sudah dihitung sebelumnya).
+​
+There is only one possible form a palindrome with length 3 can take. The first and last character must be the same, and the character in the middle can be anything (including the same character as the first/last character).
