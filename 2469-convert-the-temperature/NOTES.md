@@ -1,1 +1,2 @@
-​
+Bisa juga langsung inisialisasi array tanpa harus set size, tapi buat kasus ini, kita udah tahu pasti bakal ada dua nilai (Kelvin dan Fahrenheit). Kalo gak diset size, nanti array bakal punya size default yang sebanyak elemen yang bakal dimasukin. Ini kurang elegan dan kadang bikin error.
+kalo mau di sout array nya harus di state index nya, atau dilooping semua index nya, kalo langsung disout array nya yg ke print malah representasi dari objek array nya bukan value aslinya
